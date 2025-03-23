@@ -3,21 +3,21 @@ import { updateVariant } from "./variants.js"
 
 const bookmarks = [
   {
-    label: "reddit",
+    label: "a*tism",
     items: {
       "anilist": "https://anilist.co/home",
       "seedbox": "https://yuckyface.pan.usbx.me/rutorrent/",
       "letterboxd": "https://letterboxd.com",
-      "robinhood": "https://robinhood.com",
+      "mahjong soul": "https://mahjongsoul.game.yo-star.com",
     },
   },
   {
-    label: "tools",
+    label: "torrents",
     items: {
-      "img > compress": "https://compressimage.io/",
-      "img > upscale": "https://bigjpg.com/",
-      "css > shadows": "https://www.joshwcomeau.com/shadow-palette/",
-      "js > bundlephobia": "https://bundlephobia.com/",
+      "ext.to": "http://ext.to",
+      "nyaa.si": "https://nyaa.si",
+      "rutracker.org": "https://rutracker.org/forum/tracker.php",
+      "avistaz.to": "https://avistaz.to",
     },
   },
   {
@@ -28,11 +28,11 @@ const bookmarks = [
     },
   },
   {
-    label: "ressources",
+    label: "stream",
     items: {
-      "react > bulletproof": "https://github.com/alan2207/bulletproof-react",
-      "js > patterns": "https://www.patterns.dev/#patterns",
-    },
+      "twitch": "https://twitch.tv",
+      "youtube": "https://youtube.com",
+      },
   },
 ]
 
