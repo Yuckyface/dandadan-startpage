@@ -5,10 +5,10 @@ const bookmarks = [
   {
     label: "reddit",
     items: {
-      "r/startpages": "https://www.reddit.com/r/startpages",
-      "r/unixporn": "https://www.reddit.com/r/unixporn",
-      "r/webdev": "https://www.reddit.com/r/webdev",
-      "r/coolgithubprojects ": "https://www.reddit.com/r/coolgithubprojects ",
+      "anilist": "https://anilist.co/home",
+      "seedbox": "https://yuckyface.pan.usbx.me/rutorrent/",
+      "letterboxd": "https://letterboxd.com",
+      "robinhood": "https://robinhood.com",
     },
   },
   {
@@ -21,10 +21,10 @@ const bookmarks = [
     },
   },
   {
-    label: "libs",
+    label: "google",
     items: {
-      tailwind: "https://tailwindcss.com/docs/customizing-colors",
-      shadcn: "https://ui.shadcn.com/docs/components",
+      gmail: "https://mail.google.com/mail/u/0/#inbox",
+      googledrive: "https://drive.google.com/drive/u/0/my-drive",
     },
   },
   {
